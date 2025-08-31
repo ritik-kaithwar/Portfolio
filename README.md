@@ -11,15 +11,15 @@ Welcome! This repository organizes my projects across **Data Analytics, Machine 
 
 
 ### 🔹 End-to-End Analytics & Dashboards
-- [Hospitality Business Insights (Power BI)](https://github.com/ritik-kaithwar/CS-atliq-hospitality-insights)
+- [Hospitality Business Insights (Power BI)](https://github.com/ritik-kaithwar/DA-atliq-hospitality-business-insights)
 *Star schema and DAX measures (ADR, RevPAR, occupancy). Found cancellation rate causing ₹295M leakage and luxury hotel contribution patterns.*
 
 
-- [Superstore Sales Dashboard (Power BI)](https://github.com/ritik-kaithwar/DA-superstore-powerbi)
+- [Superstore Sales Dashboard (Power BI)](https://github.com/ritik-kaithwar/DA-superstore-retail-powerbi-case-study)
 *Interactive dashboard with KPIs for sales, profit, discounts, and returns.*
 
 
-- [AtliQ Sales & Profit Insights (Power BI)](https://github.com/ritik-kaithwar/CS-atliq-strategic-growth-insights)
+- [AtliQ Sales & Profit Insights (Power BI)](https://github.com/ritik-kaithwar/DA-atliq-strategic-growth-insights)
 *Analyzed ₹984M dataset, revealed NCR dependency and suggested strategies to improve margins beyond 2.6%.*
 
 
@@ -28,11 +28,11 @@ Welcome! This repository organizes my projects across **Data Analytics, Machine 
 
 
 ### 🔹 Business Problem Solving
-- [Museum Artwork Analysis](https://github.com/ritik-kaithwar/DA-museum-art-sql-analysis)
+- [Museum Artwork Analysis](https://github.com/ritik-kaithwar/CS-museum-art-sql-analysis )
 *Explored artwork dataset to uncover trends by artist, time period, and inventory.*
 
 
-- [Amazon Sales Exploration](https://github.com/ritik-kaithwar/DA-sql-amazon-sales-analysis)
+- [Amazon Sales Exploration](https://github.com/ritik-kaithwar/CS-sql-amazon-sales-analysis)
 *Sales dataset analysis highlighting product category and regional performance patterns.*
 
 
@@ -40,7 +40,7 @@ Welcome! This repository organizes my projects across **Data Analytics, Machine 
 
 
 ## 🤖 Machine Learning Projects (ML)
-- [Laptop Price Prediction](https://github.com/ritik-kaithwar/PY-laptop-price-prediction)
+- [Laptop Price Prediction](https://github.com/ritik-kaithwar/ML-laptop-price-prediction)
 *Regression models (Linear Regression, Random Forest, Gradient Boosting) predicting laptop prices from specs (CPU, RAM, GPU, etc.).*
 
 
@@ -48,7 +48,7 @@ Welcome! This repository organizes my projects across **Data Analytics, Machine 
 
 
 ## 🐍 Python Projects (PY)
-- [OTP Verification System](https://github.com/ritik-kaithwar/PY-otp-verification-system)
+- [OTP Verification System](https://github.com/ritik-kaithwar/PY-otp-verification-system-python)
 *Python-based OTP system with email verification demonstrating scripting & validation logic.*
 
 
