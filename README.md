@@ -35,22 +35,22 @@ Each project demonstrates real-world business problem solving through **SQL, Pow
 - [Laptop Price Prediction](https://github.com/ritik-kaithwar/ML-laptop-price-prediction)  
 *Gradient Boosting regression (R² = 0.78) predicting laptop prices using specs (CPU, GPU, RAM, SSD/HDD, weight).*  
 
-- [Telecom Customer Churn Prediction](https://github.com/ritik-kaithwar/DA-telecom-churn-prediction)  
+- [Telecom Customer Churn Prediction](https://github.com/ritik-kaithwar/DA-telecom-customer-churn-analytics-prediction)  
 *Churn analysis with SQL + Power BI; Random Forest ML model predicting high-risk customers (27% churn rate).*  
 
 ---
 
 ## ☁️ Data Engineering & Automation  
-- [ETL Pipeline on AWS](https://github.com/ritik-kaithwar/DE-etl-pipeline-aws)  
+- [ETL Pipeline on AWS](https://github.com/ritik-kaithwar/DE-aws-etl-support-logs-tickets)  
 *Serverless pipeline with S3, Lambda, Glue, Redshift; automated validation, cleaning, and daily incremental loads.*  
 
-- [Natural Language SQL Agent (n8n + Gemini)](https://github.com/ritik-kaithwar/DA-natural-language-sql-agent)  
+- [Natural Language SQL Agent (n8n + Gemini)](https://github.com/ritik-kaithwar/AI-natural-language-sql-agent-n8n)  
 *Query PostgreSQL using plain English → AI converts to SQL → results returned instantly.*  
 
-- [Email-to-Postgres Automation (n8n)](https://github.com/ritik-kaithwar?tab=repositories)  
+- [Email-to-Postgres Automation (n8n)](https://github.com/ritik-kaithwar/AI-email-to-postgres-automation)  
 *Automated monthly Gmail CSV ingestion into Postgres.*  
 
-- [Exchange Rate Automation (Make.com + Google Sheets)](https://github.com/ritik-kaithwar?tab=repositories)  
+- [Exchange Rate Automation (Make.com + Google Sheets)](https://github.com/ritik-kaithwar/AI-exchange-rate-automation)  
 *Automated daily USD exchange rate logging with API integration.*  
 
 ---
